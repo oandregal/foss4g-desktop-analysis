@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 import sys
+import os
 from pygooglechart import GroupedVerticalBarChart, Axis
 
 datafile = sys.argv[1]
-
 commitsfile = open(datafile, 'r')
 data_array = []
 legend_array = []
@@ -29,5 +29,6 @@ chart.set_axis_labels('y', ['0', '1000','2000','3000','4000','5000', '6000', '70
 
 print chart.get_url()
 
-chart.download('images/commits_by_year_'+str(datafile.split('.')[0])+'.png')
+name = os.path.basename(datafile)
+chart.download('images/commits_by_year_'+str(name.split('.')[0])+'.png')
 
