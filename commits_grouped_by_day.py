@@ -10,7 +10,7 @@ commitsfile = open(datafile, 'r')
 data_array = []
 legend_array = []
 
-chart = GroupedVerticalBarChart(800, 350,
+chart = GroupedVerticalBarChart(300, 300,
                                 y_range=(0, 6000))
 
 #chart.set_bar_width(25)
@@ -26,7 +26,7 @@ print legend_array
 
 chart.add_data(data_array)
 chart.set_axis_labels('x', ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'])
-chart.set_axis_labels('y', range(0, 6000, 250))
+chart.set_axis_labels('y', range(0, 6000, 500))
 
 print chart.get_url()
 
