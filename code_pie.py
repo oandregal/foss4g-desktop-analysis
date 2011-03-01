@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import sys
+import os
 from pygooglechart import PieChart2D
 
 chart = PieChart2D(500, 200)
@@ -30,5 +31,7 @@ chart.set_pie_labels(legend_array)
 # Print the chart URL
 print chart.get_url()
 
+
 # Download the chart
-chart.download('./images/lines_of_code_'+str(datafile.split('.')[0]) + '.png')
+name = os.path.basename(datafile)
+chart.download('./images/lines_of_code_'+str(name.split('.')[0]) + '.png')
