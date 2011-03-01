@@ -27,6 +27,7 @@ chart.add_data(data_array)
 
 # Assign the labels to the pie data
 chart.set_pie_labels(legend_array)
+chart.set_title("Lines of code by language (%)")
 
 # Print the chart URL
 print chart.get_url()
