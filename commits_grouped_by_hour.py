@@ -5,6 +5,7 @@ import os
 from pygooglechart import GroupedVerticalBarChart, Axis
 
 datafile = sys.argv[1]
+name = os.path.basename(datafile)
 
 commitsfile = open(datafile, 'r')
 data_array = []
@@ -28,8 +29,7 @@ chart.add_data(data_array)
 chart.set_axis_labels('x', range(1,25))
 chart.set_axis_labels('y', range(0, 3250, 250))
 
+chart.set_title(name.split('.')[0].upper() + " - # of commits grouped by hour of day")
 print chart.get_url()
 
-name = os.path.basename(datafile)
 chart.download('images/commits_by_hour_'+str(name.split('.')[0])+'.png')
-
