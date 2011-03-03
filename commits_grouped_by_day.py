@@ -5,12 +5,13 @@ import os
 from pygooglechart import GroupedVerticalBarChart, Axis
 
 datafile = sys.argv[1]
+name = os.path.basename(datafile)
 
 commitsfile = open(datafile, 'r')
 data_array = []
 legend_array = []
 
-chart = GroupedVerticalBarChart(300, 300,
+chart = GroupedVerticalBarChart(250, 300,
                                 y_range=(0, 6000))
 
 #chart.set_bar_width(25)
@@ -28,8 +29,8 @@ chart.add_data(data_array)
 chart.set_axis_labels('x', ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'])
 chart.set_axis_labels('y', range(0, 6000, 500))
 
+chart.set_title(name.split('.')[0].upper() + " - # commits grouped by day")
 print chart.get_url()
 
-name = os.path.basename(datafile)
 chart.download('images/commits_by_day_'+str(name.split('.')[0])+'.png')
 
