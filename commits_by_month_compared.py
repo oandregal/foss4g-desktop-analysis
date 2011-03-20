@@ -33,6 +33,7 @@ chart.set_colours(['000000'])
 
 chart.add_fill_range('224499', 0, 1)
 chart.add_fill_range('339966', 1, 2)
+#chart.add_fill_range('76A4FB', 1, 2)
 
 legend_array_stripped = [legend_array[0],
                          legend_array[len(legend_array)/2],
@@ -41,7 +42,9 @@ legend_array_stripped = [legend_array[0],
 chart.set_axis_labels('x', legend_array_stripped)
 chart.set_axis_labels('y', ['0', '150', '300', '450', '600', '750'])
 
+name = os.path.basename(datacompletefile)
+chart.set_title(name.split('.')[0].upper() + " - developers in 2010: % commits along project history")
+
 print chart.get_url()
 
-name = os.path.basename(datacompletefile)
 chart.download('images/commits_by_month_compared_2010_'+str(name.split('.')[0])+'.png')
