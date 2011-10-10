@@ -1,0 +1,68 @@
+* Contar el número de posts al mes a cada lista:
+select mailing_list_url, year(m.first_date), month(m.first_date), count(*) 
+from messages as m 
+group by mailing_list_url, year(m.first_date), month(m.first_date)
+order by mailing_list_url, year(m.first_date), month(m.first_date);
+
+* Contar el número de posteadores distintos al mes a cada lista:
+
+SELECT mailing_list_url, year(m.first_date), month(m.first_date), count(distinct(email_address))
+FROM messages_people AS mp, messages AS m
+WHERE mp.message_id = m.message_ID AND type_of_recipient='From'
+GROUP BY mailing_list_url, year(m.first_date), month(m.first_date)
+ORDER BY mailing_list_url, year(m.first_date), month(m.first_date);
+
+Copiar y pegar el código de cuando se selecciona por autor y hacer
+grep '<i>' foo | sort | uniq | wc -l
+
+* Número de organizaciones distintas que participan y cuanto. Averiguar los dominios del correo y luego filtrar a mano. CHEQUEAR ESTA EXPRESIÓN.
+
+SELECT mlp.mailing_list_url, domain_name, count(*)
+FROM mailing_lists_people AS mlp, messages AS m, messages_people AS mp
+WHERE mp.message_id = m.message_ID AND mlp.email_address=mp.email_address
+GROUP BY mlp.mailing_list_url, domain_name;
+
+
+SELECT m.mailing_list_url, p.domain_name, count(m.message_id) as num_messages 
+FROM messages m,messages_people mp, people p
+WHERE m.message_ID=mp.message_ID AND mp.email_address=p.email_address AND mp.type_of_recipient='From' 
+group by m.mailing_list_url, p.domain_name
+order by num_messages desc;
+
+
+SELECT m.mailing_list_url, p.domain_name, count(m.message_id) as num_messages  FROM messages m,messages_people mp, people p WHERE p.domain_name NOT IN ('gmail.com', 'yahoo.com', 'hotmail.com', 'web.de') AND m.message_ID=mp.message_ID AND mp.email_address=p.email_address AND mp.type_of_recipient='From'  group by m.mailing_list_url, p.domain_name order by num_messages desc;
+
+* Mayores posteadores y número de mensajes enviados por mes
+select m.mailing_list_url, mp.email_address, year(m.first_date) as year, month(m.first_date) as month,count(*) as msg 
+from messages as m,messages_people as mp 
+where m.message_id=mp.message_ID 
+group by m.mailing_list_url, p.email_address, year, month
+order by m.mailing_list_url, year, month, msg;   
+
+* Mayores posteadores totales
+Se ha separado por dirección de correo y en algunos casos obvios agregado a mano las personas que escribían desde la misma dirección
+
+select m.mailing_list_url, mp.email_address, count(*) as msg  
+from messages as m,messages_people as mp  where m.message_id=mp.message_ID  
+group by m.mailing_list_url, mp.email_address 
+order by m.mailing_list_url, msg DESC limit 10;
+
+Da empty sets, no relaciona las email_addres de messages_people con las de people -> select * from people p, messages_people mp where p.email_address = mp.email_address; -> esto suelta un emptyset en grass-dev
+
+select m.mailing_list_url, p.username, count(*) as msg  
+from messages as m,messages_people as mp, people AS p
+where m.message_id=mp.message_ID  AND mp.email_address = p.username
+group by m.mailing_list_url, p.username 
+order by m.mailing_list_url, msg DESC limit 10;
+
+Primer, último mensaje: análisis no válido porque migraron las listas
+
+
+
+
+
+****
+select m.mailing_list_url, mp.email_address, count(*) as msg   from messages as m,messages_people as mp where m.message_id=mp.message_ID AND year(m.first_date)='2008' AND month(m.first_date) IN ('03', '04') group by m.mailing_list_url, mp.email_address  order by m.mailing_list_url, msg DESC limit 11;
+
+
+

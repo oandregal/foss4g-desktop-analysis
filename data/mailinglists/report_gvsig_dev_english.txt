@@ -1,0 +1,67 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	'gmail.com'	3
+'	'oxfordarch.co.uk'	1
+'	'does.not.exist.com'	1
+'	'cartolab.es'	1
+'	'gvsig.com'	1
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'com'	5
+'	'uk'	1
+'	'es'	1
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig-desktop-devel	2011	21
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig-desktop-devel	2011	7
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+gvsig-desktop-devel	None	5
+gvsig-desktop-devel	None	5
+gvsig-desktop-devel	None	4
+gvsig-desktop-devel	None	3
+gvsig-desktop-devel	None	2
+gvsig-desktop-devel	None	1
+gvsig-desktop-devel	None	1
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+gvsig-desktop-devel	7
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+gvsig-desktop-devel	21
+

@@ -1,0 +1,89 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	'gmail.com'	173
+'	'yahoo.com'	15
+'	'gmx.de'	9
+'	'hotmail.com'	9
+'	'libero.it'	5
+'	'bd.so.ch'	4
+'	'faunalia.it'	3
+'	'mapgears.com'	2
+'	'netscape.net'	2
+'	'gmx.at'	2
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'com'	251
+'	'net'	30
+'	'it'	27
+'	'de'	27
+'	'org'	19
+'	'fr'	16
+'	'ch'	16
+'	'ca'	9
+'	'edu'	9
+'	'pl'	8
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+qgis-developer	1979	1
+qgis-developer	2008	5538
+qgis-developer	2009	3176
+qgis-developer	2010	3480
+qgis-developer	2011	778
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+qgis-developer	2008	208
+qgis-developer	2009	196
+qgis-developer	2010	217
+qgis-developer	2011	108
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+qgis-developer	None	1240
+qgis-developer	None	1123
+qgis-developer	None	1052
+qgis-developer	None	494
+qgis-developer	None	354
+qgis-developer	None	334
+qgis-developer	None	324
+qgis-developer	None	271
+qgis-developer	None	270
+qgis-developer	None	215
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+qgis-developer	480
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+qgis-developer	12973
+

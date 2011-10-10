@@ -1,0 +1,87 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	''	1685
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'garcia'	5
+'	'martinez'	4
+'	'rodriguez'	4
+'	'ext'	4
+'	'ruiz'	4
+'	'gonzalez'	3
+'	'manuel'	3
+'	'gvsig'	3
+'	'diaz'	3
+'	'Gomez'	3
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig_usuarios	2004	70
+gvsig_usuarios	2005	515
+gvsig_usuarios	2006	805
+gvsig_usuarios	2007	2088
+gvsig_usuarios	2008	3723
+gvsig_usuarios	2009	4335
+gvsig_usuarios	2010	4751
+gvsig_usuarios	2011	740
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig_usuarios	2004	23
+gvsig_usuarios	2005	102
+gvsig_usuarios	2006	148
+gvsig_usuarios	2007	368
+gvsig_usuarios	2008	540
+gvsig_usuarios	2009	630
+gvsig_usuarios	2010	609
+gvsig_usuarios	2011	182
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+gvsig_usuarios	None	438
+gvsig_usuarios	None	417
+gvsig_usuarios	None	313
+gvsig_usuarios	None	306
+gvsig_usuarios	None	195
+gvsig_usuarios	None	168
+gvsig_usuarios	None	164
+gvsig_usuarios	None	156
+gvsig_usuarios	None	145
+gvsig_usuarios	None	142
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+gvsig_usuarios	1685
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+gvsig_usuarios	17027
+

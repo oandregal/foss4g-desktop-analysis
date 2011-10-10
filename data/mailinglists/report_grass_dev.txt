@@ -1,0 +1,91 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+grass-dev'	'gmail.com'	135
+grass-dev'	'yahoo.com'	49
+grass-dev'	'zorro.cecer.army.mil'	25
+grass-dev'	'hotmail.com'	22
+grass-dev'	'intevation.de'	13
+grass-dev'	'wald.intevation.org'	13
+grass-dev'	'GMX.de'	11
+grass-dev'	'mac.com'	7
+grass-dev'	'cast.uark.edu'	7
+grass-dev'	'diego.cecer.army.mil'	7
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+grass-dev'	'com'	439
+grass-dev'	'edu'	308
+grass-dev'	'de'	98
+grass-dev'	'mil'	85
+grass-dev'	'gov'	83
+grass-dev'	'it'	76
+grass-dev'	'net'	67
+grass-dev'	'org'	63
+grass-dev'	'ca'	63
+grass-dev'	'au'	50
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+grass-dev	1979	1
+grass-dev	2007	34602
+grass-dev	2008	6989
+grass-dev	2009	6064
+grass-dev	2010	5255
+grass-dev	2011	519
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+grass-dev	2007	1514
+grass-dev	2008	135
+grass-dev	2009	130
+grass-dev	2010	125
+grass-dev	2011	38
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+grass-dev	None	7516
+grass-dev	None	4370
+grass-dev	None	3570
+grass-dev	None	3251
+grass-dev	None	2680
+grass-dev	None	2550
+grass-dev	None	1741
+grass-dev	None	1401
+grass-dev	None	1318
+grass-dev	None	1253
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+grass-dev	1698
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+grass-dev	53430
+

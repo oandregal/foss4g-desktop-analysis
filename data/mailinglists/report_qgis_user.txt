@@ -1,0 +1,89 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	'gmail.com'	314
+'	'hotmail.com'	36
+'	'yahoo.com'	28
+'	'gmx.de'	11
+'	'mac.com'	9
+'	'gmx.net'	9
+'	'libero.it'	7
+'	'bd.so.ch'	6
+'	'free.fr'	5
+'	'googlemail.com'	5
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'com'	491
+'	'de'	71
+'	'net'	61
+'	'it'	49
+'	'org'	35
+'	'edu'	34
+'	'fr'	30
+'	'ca'	24
+'	'au'	20
+'	'uk'	19
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+qgis-user	1979	1
+qgis-user	2008	4198
+qgis-user	2009	3128
+qgis-user	2010	3432
+qgis-user	2011	576
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+qgis-user	2008	484
+qgis-user	2009	352
+qgis-user	2010	426
+qgis-user	2011	137
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+qgis-user	None	567
+qgis-user	None	470
+qgis-user	None	353
+qgis-user	None	330
+qgis-user	None	269
+qgis-user	None	223
+qgis-user	None	203
+qgis-user	None	201
+qgis-user	None	185
+qgis-user	None	177
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+qgis-user	1018
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+qgis-user	11335
+

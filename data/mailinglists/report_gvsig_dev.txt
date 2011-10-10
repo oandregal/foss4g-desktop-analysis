@@ -1,0 +1,87 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	''	565
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'garcia'	2
+'	'gonzalez'	2
+'	'guerrero'	2
+'	'lorenzo'	2
+'	'roldan'	2
+'	'Gomez'	2
+'	'merino'	2
+'	'29jlvc'	1
+'	'=?ISO-8859-1?Q?=22Jose_Manuel_Viv=F3_Arnal_=28_Chema_=29?='	1
+'	'aanguix'	1
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig_desarrolladores	2004	24
+gvsig_desarrolladores	2005	192
+gvsig_desarrolladores	2006	383
+gvsig_desarrolladores	2007	1037
+gvsig_desarrolladores	2008	863
+gvsig_desarrolladores	2009	1207
+gvsig_desarrolladores	2010	1342
+gvsig_desarrolladores	2011	119
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig_desarrolladores	2004	8
+gvsig_desarrolladores	2005	48
+gvsig_desarrolladores	2006	64
+gvsig_desarrolladores	2007	165
+gvsig_desarrolladores	2008	155
+gvsig_desarrolladores	2009	186
+gvsig_desarrolladores	2010	162
+gvsig_desarrolladores	2011	42
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+gvsig_desarrolladores	None	234
+gvsig_desarrolladores	None	208
+gvsig_desarrolladores	None	185
+gvsig_desarrolladores	None	104
+gvsig_desarrolladores	None	99
+gvsig_desarrolladores	None	95
+gvsig_desarrolladores	None	93
+gvsig_desarrolladores	None	90
+gvsig_desarrolladores	None	85
+gvsig_desarrolladores	None	83
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+gvsig_desarrolladores	565
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+gvsig_desarrolladores	5167
+

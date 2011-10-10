@@ -1,0 +1,447 @@
+12978 messages analyzed
+12006 messages stored in database mlstats
+0 messages ignored by the parser
+WARNING: Some messages were parsed but not stored
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	''	1684
+'	''	565
+'	'gmail.com'	278
+'	'gmail.com'	173
+'	'gmail.com'	140
+'	'gmail.com'	135
+'	'zorro.cecer.army.mil'	55
+'	'yahoo.com'	49
+'	'hotmail.com'	32
+'	'gmail.com'	32
+'	'yahoo.com'	26
+'	'zorro.cecer.army.mil'	25
+'	'gva.es'	24
+'	'hotmail.com'	22
+'	'diego.cecer.army.mil'	20
+'	''	20
+'	'iver.es'	18
+'	'cast.uark.edu'	17
+'	'cerl.cecer.army.mil'	16
+'	'yahoo.com'	15
+'	'vinny.cecer.army.mil'	15
+'	'chief.ecn.uoknor.edu'	14
+'	'ecn.purdue.edu'	13
+'	'hotmail.com'	13
+'	'crsa.bu.edu'	13
+'	'intevation.de'	13
+'	'wald.intevation.org'	13
+'	'gmx.de'	12
+'	'amber.cecer.army.mil'	12
+'	'osiris.cso.uiuc.edu'	12
+'	'prodevelop.es'	11
+'	'GMX.de'	11
+'	'attmail.com'	10
+'	'googlemail.com'	10
+'	'mailhost.ecn.uoknor.edu'	10
+'	'gmx.de'	10
+'	'gmx.de'	9
+'	'aol.com'	9
+'	'hotmail.com'	9
+'	'mac.com'	8
+'	'yahoo.com'	8
+'	'cicese.mx'	8
+'	'gis.uiuc.edu'	8
+'	'forestry.auburn.edu'	8
+'	'libero.it'	7
+'	'web.de'	7
+'	'mac.com'	7
+'	'cast.uark.edu'	7
+'	'ginko.cecer.army.mil'	7
+'	'abrsle.agr.ca'	7
+'	'netcom.com'	7
+'	'cecer.army.mil'	7
+'	'diego.cecer.army.mil'	7
+'	'ucunix.san.uc.EDU'	7
+'	'ncrds.er.usgs.gov'	7
+'	'ecn.purdue.edu'	7
+'	'compuserve.com'	6
+'	'uibk.ac.at'	6
+'	'cartolab.es'	6
+'	'ocean.rutgers.edu'	6
+'	'jrc.it'	6
+'	'cerl.cecer.army.mil'	6
+'	'hwr.arizona.edu'	6
+'	'geo0.geog.uni-heidelberg.de'	6
+'	'hanover-crrel.army.mil'	6
+'	'cecer.army.mil'	6
+'	'delphi.com'	6
+'	'bd.so.ch'	6
+'	'deathstar.rutgers.edu'	6
+'	'gvsig.com'	6
+'	'MVS.OAC.UCLA.EDU'	6
+'	'yahoo.de'	6
+'	'quercus.ecn.uoknor.edu'	6
+'	'web.de'	6
+'	'cedrus.ecn.uoknor.edu'	6
+'	'ced.berkeley.edu'	6
+'	'gmx.net'	6
+'	'ncg.scs.ag.gov'	6
+'	'mhs-fswa.attmail.com'	5
+'	'compuserve.com'	5
+'	'GMX.net'	5
+'	'longs.lance.colostate.edu'	5
+'	'libero.it'	5
+'	'yahoo.fr'	5
+'	'jrc.it'	5
+'	'yahoo.es'	5
+'	'rug.ac.be'	5
+'	'ginko.cecer.army.mil'	5
+'	'max.cecer.army.mil'	5
+'	'yahoo.com.br'	5
+'	'uunet.UU.NET'	5
+'	'vt.edu'	5
+'	'soton.ac.uk'	5
+'	'googlemail.com'	5
+'	'agcs.cas.psu.edu'	5
+'	'libero.it'	5
+'	'ced.berkeley.edu'	5
+'	'csn.org'	5
+'	'tiscali.it'	5
+'	'libero.it'	5
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'edu'	919
+'	'com'	440
+'	'com'	439
+'	'com'	322
+'	'edu'	308
+'	'com'	251
+'	'gov'	228
+'	'mil'	226
+'	'com'	218
+'	'ca'	145
+'	'de'	126
+'	'uk'	99
+'	'de'	98
+'	'es'	87
+'	'mil'	85
+'	'au'	83
+'	'gov'	83
+'	'it'	76
+'	'net'	67
+'	'de'	66
+'	'it'	65
+'	'de'	64
+'	'org'	63
+'	'ca'	63
+'	'net'	62
+'	'fr'	56
+'	'net'	52
+'	'NL'	50
+'	'au'	50
+'	'it'	46
+'	'it'	40
+'	'uk'	40
+'	'tw'	38
+'	'es'	37
+'	'fr'	35
+'	'org'	33
+'	'org'	32
+'	'edu'	31
+'	'net'	30
+'	'nl'	28
+'	'es'	28
+'	'it'	27
+'	'de'	27
+'	'no'	27
+'	'fr'	26
+'	'fr'	24
+'	'ca'	23
+'	'mx'	22
+'	'br'	20
+'	'at'	19
+'	'org'	19
+'	'au'	19
+'	'jp'	19
+'	'org'	18
+'	'uk'	17
+'	'net'	17
+'	'BITNET'	17
+'	'pl'	16
+'	'fr'	16
+'	'be'	16
+'	'cz'	16
+'	'ch'	16
+'	'fi'	16
+'	'pl'	15
+'	'fi'	15
+'	'at'	14
+'	'se'	14
+'	'ch'	14
+'	'se'	13
+'	'tw'	12
+'	'br'	12
+'	'za'	11
+'	'pt'	11
+'	'no'	11
+'	'ca'	11
+'	'gr'	11
+'	'pl'	10
+'	'be'	10
+'	'uk'	10
+'	'br'	10
+'	'nl'	10
+'	'br'	9
+'	'es'	9
+'	'ca'	9
+'	'edu'	9
+'	'za'	9
+'	'ch'	9
+'	'au'	8
+'	'jp'	8
+'	'dk'	8
+'	'pl'	8
+'	'gov'	8
+'	'ch'	8
+'	'za'	7
+'	'in'	7
+'	'th'	7
+'	'sk'	7
+'	'cl'	7
+'	'au'	7
+'	'us'	7
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+grass-dev	2007	34362
+grass-dev	2008	6989
+grass-dev	2009	6064
+grass-dev	2010	5255
+grass-dev	2011	517
+grass-user	2007	14576
+grass-user	2011	261
+qgis-developer	2008	5116
+qgis-developer	2009	2855
+qgis-developer	2010	3306
+qgis-developer	2011	729
+qgis-user	2008	4192
+qgis-user	2009	3121
+qgis-user	2010	2129
+qgis-user	2011	267
+gvsig_desarrolladores	2004	24
+gvsig_desarrolladores	2005	172
+gvsig_desarrolladores	2006	368
+gvsig_desarrolladores	2007	1003
+gvsig_desarrolladores	2008	815
+gvsig_desarrolladores	2009	1121
+gvsig_desarrolladores	2010	1261
+gvsig_desarrolladores	2011	101
+gvsig_internacional	1979	1
+gvsig_internacional	2005	30
+gvsig_internacional	2006	168
+gvsig_internacional	2007	943
+gvsig_internacional	2008	1616
+gvsig_internacional	2009	1641
+gvsig_internacional	2010	2050
+gvsig_internacional	2011	251
+gvsig_usuarios	2004	70
+gvsig_usuarios	2005	513
+gvsig_usuarios	2006	802
+gvsig_usuarios	2007	2083
+gvsig_usuarios	2008	3711
+gvsig_usuarios	2009	4331
+gvsig_usuarios	2010	4742
+gvsig_usuarios	2011	713
+gvsig-desktop-devel	2011	18
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+grass-dev	2007	1467
+grass-dev	2008	135
+grass-dev	2009	130
+grass-dev	2010	125
+grass-dev	2011	38
+grass-user	2007	2781
+grass-user	2011	84
+qgis-developer	2008	202
+qgis-developer	2009	192
+qgis-developer	2010	215
+qgis-developer	2011	105
+qgis-user	2008	484
+qgis-user	2009	351
+qgis-user	2010	324
+qgis-user	2011	88
+gvsig_desarrolladores	2004	8
+gvsig_desarrolladores	2005	45
+gvsig_desarrolladores	2006	62
+gvsig_desarrolladores	2007	160
+gvsig_desarrolladores	2008	151
+gvsig_desarrolladores	2009	178
+gvsig_desarrolladores	2010	156
+gvsig_desarrolladores	2011	41
+gvsig_internacional	2005	11
+gvsig_internacional	2006	37
+gvsig_internacional	2007	154
+gvsig_internacional	2008	219
+gvsig_internacional	2009	212
+gvsig_internacional	2010	222
+gvsig_internacional	2011	63
+gvsig_usuarios	2004	23
+gvsig_usuarios	2005	102
+gvsig_usuarios	2006	148
+gvsig_usuarios	2007	367
+gvsig_usuarios	2008	539
+gvsig_usuarios	2009	629
+gvsig_usuarios	2010	609
+gvsig_usuarios	2011	179
+gvsig-desktop-devel	2011	7
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+grass-dev	None	7514
+grass-dev	None	4370
+grass-dev	None	3570
+grass-dev	None	3251
+grass-dev	None	2680
+grass-dev	None	2550
+grass-dev	None	1741
+grass-dev	None	1401
+grass-dev	None	1318
+grass-dev	None	1253
+grass-dev	None	1243
+grass-dev	None	1155
+qgis-developer	None	1147
+qgis-developer	None	1025
+qgis-developer	None	1007
+grass-dev	None	959
+grass-dev	None	847
+grass-dev	None	708
+grass-dev	None	698
+grass-dev	None	667
+grass-dev	None	620
+grass-dev	None	607
+gvsig_internacional	None	515
+qgis-user	None	485
+qgis-user	None	463
+qgis-developer	None	459
+gvsig_usuarios	None	435
+gvsig_internacional	None	423
+gvsig_usuarios	None	416
+grass-dev	None	392
+grass-user	None	379
+grass-user	None	352
+grass-dev	None	343
+qgis-developer	None	339
+grass-dev	None	333
+gvsig_internacional	None	328
+qgis-developer	None	323
+grass-dev	None	318
+gvsig_usuarios	None	313
+gvsig_usuarios	None	306
+qgis-developer	None	294
+grass-dev	None	279
+qgis-user	None	276
+grass-dev	None	276
+grass-dev	None	274
+grass-dev	None	272
+gvsig_internacional	None	257
+qgis-user	None	236
+qgis-developer	None	235
+gvsig_desarrolladores	None	232
+grass-dev	None	231
+grass-dev	None	228
+grass-dev	None	223
+qgis-developer	None	222
+qgis-user	None	218
+grass-user	None	216
+grass-dev	None	214
+qgis-user	None	211
+gvsig_desarrolladores	None	208
+qgis-developer	None	205
+qgis-developer	None	203
+grass-dev	None	202
+grass-dev	None	197
+gvsig_usuarios	None	194
+qgis-developer	None	186
+grass-dev	None	184
+gvsig_desarrolladores	None	181
+gvsig_internacional	None	178
+grass-dev	None	177
+grass-dev	None	177
+qgis-user	None	176
+qgis-user	None	173
+qgis-developer	None	171
+gvsig_internacional	None	168
+gvsig_usuarios	None	168
+qgis-user	None	167
+grass-user	None	165
+gvsig_usuarios	None	164
+qgis-user	None	164
+qgis-developer	None	162
+grass-dev	None	159
+qgis-user	None	158
+qgis-user	None	158
+grass-dev	None	157
+qgis-developer	None	157
+gvsig_usuarios	None	156
+qgis-developer	None	156
+grass-dev	None	152
+grass-dev	None	148
+qgis-developer	None	147
+grass-dev	None	146
+qgis-developer	None	143
+qgis-user	None	142
+gvsig_usuarios	None	142
+grass-dev	None	141
+qgis-user	None	140
+gvsig_usuarios	None	137
+gvsig_usuarios	None	137
+gvsig_usuarios	None	136
+grass-dev	None	135
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+grass-dev	1651
+grass-user	2865
+qgis-developer	472
+qgis-user	921
+gvsig_desarrolladores	548
+gvsig_internacional	597
+gvsig_usuarios	1684
+gvsig-desktop-devel	7
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+grass-dev	53187
+grass-user	14837
+qgis-developer	12006
+qgis-user	9709
+gvsig_desarrolladores	4865
+gvsig_internacional	6700
+gvsig_usuarios	16965
+gvsig-desktop-devel	18
+

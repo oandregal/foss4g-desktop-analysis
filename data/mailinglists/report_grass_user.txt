@@ -1,0 +1,91 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	'gmail.com'	390
+'	'yahoo.com'	107
+'	'hotmail.com'	80
+'	'zorro.cecer.army.mil'	55
+'	'GMX.de'	34
+'	'web.de'	27
+'	''	25
+'	'mac.com'	22
+'	'diego.cecer.army.mil'	20
+'	'gmx.net'	19
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'com'	1204
+'	'edu'	1116
+'	'de'	329
+'	'gov'	273
+'	'net'	254
+'	'ca'	238
+'	'mil'	228
+'	'it'	181
+'	'uk'	170
+'	'au'	137
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+grass-user	1979	1
+grass-user	2007	42405
+grass-user	2008	5685
+grass-user	2009	5728
+grass-user	2010	5292
+grass-user	2011	502
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+grass-user	2007	4726
+grass-user	2008	435
+grass-user	2009	430
+grass-user	2010	409
+grass-user	2011	115
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+grass-user	None	1992
+grass-user	None	1674
+grass-user	None	1598
+grass-user	None	1499
+grass-user	None	1290
+grass-user	None	1067
+grass-user	None	1055
+grass-user	None	1011
+grass-user	None	903
+grass-user	None	760
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+grass-user	5434
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+grass-user	59613
+

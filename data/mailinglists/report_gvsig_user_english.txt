@@ -1,0 +1,95 @@
+MLStats report
+--------------
+
+
+Total messages by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+
+
+Total people posting by domain name (only top 10 per list):
+Mailing list    	Domain name	 #  
+----------------	-----------	----
+'	'gmail.com'	140
+'	'gva.es'	24
+'	'iver.es'	18
+'	'hotmail.com'	13
+'	'gmx.de'	12
+'	'prodevelop.es'	11
+'	'googlemail.com'	10
+'	'yahoo.com'	8
+'	'web.de'	7
+'	'cartolab.es'	6
+
+
+Total messages by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+
+
+Total people posting by top level domain(only top 10 per list):
+Mailing list    	    TLD    	 #  
+----------------	-----------	----
+'	'com'	218
+'	'es'	87
+'	'de'	66
+'	'it'	40
+'	'fr'	35
+'	'org'	18
+'	'net'	17
+'	'ca'	11
+'	'uk'	10
+'	'br'	10
+
+
+Total messages by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig_internacional	1979	1
+gvsig_internacional	2005	30
+gvsig_internacional	2006	168
+gvsig_internacional	2007	943
+gvsig_internacional	2008	1616
+gvsig_internacional	2009	1641
+gvsig_internacional	2010	2050
+gvsig_internacional	2011	264
+
+
+Total people posting by year:
+Mailing list    	    Year   	 #  
+----------------	-----------	----
+gvsig_internacional	2005	10
+gvsig_internacional	2006	35
+gvsig_internacional	2007	150
+gvsig_internacional	2008	212
+gvsig_internacional	2009	206
+gvsig_internacional	2010	215
+gvsig_internacional	2011	64
+
+
+Total messages by email address (only top 10 per list):
+Mailing list    	   Email   	 #  
+----------------	-----------	----
+gvsig_internacional	None	515
+gvsig_internacional	None	424
+gvsig_internacional	None	331
+gvsig_internacional	None	257
+gvsig_internacional	None	178
+gvsig_internacional	None	168
+gvsig_internacional	None	129
+gvsig_internacional	None	115
+gvsig_internacional	None	115
+gvsig_internacional	None	101
+
+
+Total people posting in each list:
+Mailing list    	 #  
+----------------	----
+gvsig_internacional	577
+
+
+Total messages in each list:
+Mailing list    	 #  
+----------------	----
+gvsig_internacional	6713
+
