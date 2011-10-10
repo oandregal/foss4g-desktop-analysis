@@ -8,20 +8,21 @@
   <style type="text/css">
     body {
       margin-top: 1.0em;
-      background-color: #aba9c6;
+      background-color: #FFF;
       font-family: Helvetica, Arial, FreeSans, san-serif;
-      color: #000000;
+      color: #000;
     }
     #container {
       margin: 0 auto;
       width: 700px;
     }
-    h1 { font-size: 3.8em; color: #545639; margin-bottom: 3px; }
+    h1 { font-size: 3.8em; color: #000; margin-bottom: 3px; }
     h1 .small { font-size: 0.4em; }
     h1 a { text-decoration: none }
-    h2 { font-size: 1.5em; color: #545639; }
-    h3 { text-align: center; color: #545639; }
-    a { color: #545639; }
+    h2 { font-size: 1.5em; color: #000; }
+    h3 { text-align: center; color: #000; }
+    p { text-align: justify; }
+    a { color: #000; }
     .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
     .download { float: right; }
     pre { background: #000; color: #fff; padding: 15px;}
@@ -35,25 +36,41 @@
 
   <div id="container">
 
-    <div class="download">
-      <a href="http://github.com/amaneiro/foss4g-desktop-analysis/zipball/master">
-        <img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
-      <a href="http://github.com/amaneiro/foss4g-desktop-analysis/tarball/master">
-        <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
-    </div>
+    <h3><a href="http://github.com/amaneiro/foss4g-desktop-analysis">A study on GRASS, gvSIG and QGIS communities based on indicators</a></h3>
 
-    <h1><a href="http://github.com/amaneiro/foss4g-desktop-analysis">foss4g-desktop-analysis</a>
-      <span class="small">by <a href="http://github.com/amaneiro">amaneiro</a></span></h1>
+    <h4>Authors</h4>
+<ul>
+<li>Andrés Maneiro (andres.maneiro@gmail.com)</li>
+<li>Francisco Puga (fpuga@cartolab.es)</li>
+<li>Adrián Eirís (aeiris@cartolab.es)</li>
+<li>Alberto Varela (avarela@udc.es)</li>
+</ul>
 
-    <div class="description">
-      A study on GRASS, gvSIG and QGIS communities based on indicators (scripts to generate the stats).
-    </div>
+    <h4>Abstract</h4>
+<p>When selecting an aplication, it’s very common to weight <strong>tecnological</strong> factors
+-<em>what the aplication enable us to do?</em>- and <strong>economic</strong> ones -<em>how many money do we
+need?</em>. And yet, there is a third factor to take into account, the <strong>social side</strong>
+of the project: the community of users and developers who support it and make it
+be alive.</p>
 
-    <h2>Authors</h2>
-<p>Andrés Maneiro (andres.maneiro@gmail.com)</p>
+<p>Along this paper, we show a quantitative
+    analysis of communities from 3 reference projects in Geographical
+    Information Systems (GIS) arena: GRASS, gvSIG
+    and QGIS. We selected those, as they are viewed as the more mature projects
+    in desktop GIS, they are under <a href="www.osgeo.org">OSGEO Fundation</a> umbrella and show some
+    differences on the actors who bootstrapped and manage today.<p>
 
+<p>Particulary, with the <a
+href="http://nosolosoftware.com/analysis-on-free-software-communities-i/">public
+information available for the projects</a>, we have managed to build following indicators:</p>
+<ul>
+<li><a href="http://nosolosoftware.com/analysis-of-free-software-communities-ii/">Adoption trend within users and developers: based on mailinglists data</a></li>
+<li><a href="http://nosolosoftware.com/analysis-of-free-software-communities-iii/">Activity and manpower: based on code contributions (<em>commits</em>)</a>.</li>
+<li>Composition of the community: based on code contributions (<em>commits</em>).</li>
+<li>Generational analysis: based on code contributions (<em>commits</em>).</li>
+</ul>
 
-    <h2>Download</h2>
+    <h4>Download</h4>
     <p>
       You can download this project in either
       <a href="http://github.com/amaneiro/foss4g-desktop-analysis/zipball/master">zip</a> or
@@ -64,12 +81,7 @@
       <pre>$ git clone git://github.com/amaneiro/foss4g-desktop-analysis</pre>
     </p>
 
-    <div class="footer">
-      get the source code on GitHub : <a href="http://github.com/amaneiro/foss4g-desktop-analysis">amaneiro/foss4g-desktop-analysis</a>
-    </div>
-
   </div>
 
-  
 </body>
 </html>
