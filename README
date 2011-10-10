@@ -1,3 +1,11 @@
-Scripts to parse git log and retrieve information about developers and its activity.
+# A study on GRASS, gvSIG and QGIS communities based on indicators
 
-* See paper showing the results here: http://www.sigte.udg.edu/jornadassiglibre/uploads/articulos/art37.pdf
+This repo contains the data, images and final deliverables of the study (paper, slides). More information here:
+http://amaneiro.github.com/foss4g-desktop-analysis/
+
+## Authors
+
+* Andrés Maneiro (andres.maneiro@gmail.com)
+* Francisco Puga (fpuga@cartolab.es)
+* Adrián Eirís (aeiris@cartolab.es)
+* Alberto Varela (avarela@udc.es)
