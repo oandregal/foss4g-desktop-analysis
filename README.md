@@ -7,5 +7,4 @@ http://amaneiro.github.com/foss4g-desktop-analysis/
 
 * Andrés Maneiro (andres.maneiro@gmail.com)
 * Francisco Puga (fpuga@cartolab.es)
-* Adrián Eirís (aeiris@cartolab.es)
 * Alberto Varela (avarela@udc.es)
