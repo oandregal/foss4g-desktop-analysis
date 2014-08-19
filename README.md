@@ -1,7 +1,7 @@
 # A study on GRASS, gvSIG and QGIS communities based on indicators
 
 This repo contains the data, images and final deliverables of the study (paper, slides). More information here:
-http://amaneiro.github.com/foss4g-desktop-analysis/
+http://nosolosw.github.io/foss4g-desktop-analysis/
 
 ## Authors
 
